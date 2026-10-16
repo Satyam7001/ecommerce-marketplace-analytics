@@ -1,0 +1,613 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost,seller_id,quality_score
+P0494,Books Item 494,Books,Books - Type 2,242.25,159.91,S0194,3.3
+P0473,Electronics Item 473,Electronic,Electronics - Type 3,4026.16,3034.04,S0131,3.08
+P0108,Sports Item 108,Sports,Sports - Type 2,4814.5,3196.44,S0093,2.64
+P0559,Home & Kitchen Item 559,Home & Kitchen,Home & Kitchen - Type 2,6204.23,3917.85,S0021,4.61
+P0536,Fashion Item 536,Fashion,Fashion - Type 1,1291.23,874.37,S0123,3.64
+P0384,Fashion Item 384,Fashion,Fashion - Type 4,3164.18,1456.8,S0056,2.7
+P0174,Grocery Item 174,Grocery,Grocery - Type 1,205.69,177.12,S0048,3.98
+P0492,Home & Kitchen Item 492,Home & Kitchen,Home & Kitchen - Type 2,3153.56,2262.12,S0120,4.19
+P0435,Fashion Item 435,Fashion,Fashion - Type 2,433.37,189.3,S0082,4.14
+P0395,Beauty Item 395,Beauty,Beauty - Type 2,343.29,244.72,S0134,3.57
+P0198,Home & Kitchen Item 198,Home & Kitchen,Home & Kitchen - Type 2,4522.22,2477.6,S0019,4.33
+P0001,Grocery Item 1,Grocery,Grocery - Type 4,756.92,623.3,S0198,3.56
+P0431,Sports Item 431,Sports,Sports - Type 4,3726.75,2857.65,S0072,3.48
+P0024,Home & Kitchen Item 24,Home & Kitchen,Home & Kitchen - Type 1,1938.87,1057.7,S0068,3.9
+P0484,Books Item 484,Books,Books - Type 1,192.29,157.6,S0112,4.67
+P0067,Electronics Item 67,Electronic,Electronics - Type 1,15480.42,12251.81,S0169,4.67
+P0361,Grocery Item 361,Grocery,Grocery - Type 4,119.08,97.93,S0058,3.45
+P0060,Electronics Item 60, Electronics ,Electronics - Type 1,2577.31,1893.27,S0096,2.53
+P0489,Beauty Item 489,Beauty,Beauty - Type 4,302.02,203.42,S0099,3.73
+P0573,Beauty Item 573,Beauty,Beauty - Type 2,1593.62,764.75,S0136,3.92
+P0329,Electronics Item 329,Electronic,Electronics - Type 3,1725.65,1324.74,S0032,3.28
+P0173,Sports Item 173,Sports,Sports - Type 1,1076.92,684.21,S0194,4.65
+P0446,Electronics Item 446,ELECTRONICS,Electronics - Type 4,19995.95,14035.39,S0142,4.87
+P0093,Books Item 93,Books,Books - Type 1,568.75,444.43,S0154,4.51
+P0014,Home & Kitchen Item 14,Home & Kitchen,Home & Kitchen - Type 1,6524.28,3588.38,S0161,4.65
+P0365,Electronics Item 365,Electronic,Electronics - Type 2,54951.84,46570.21,S0193,4.86
+P0285,Home & Kitchen Item 285,Home & Kitchen,Home & Kitchen - Type 4,2627.21,1974.64,S0172,4.23
+P0149,Beauty Item 149,,Beauty - Type 4,249.9,181.15,S0100,3.17
+P0411,Toys Item 411,Toys,Toys - Type 4,734.2,419.71,S0023,4.65
+P0379,Fashion Item 379,Fashion,Fashion - Type 4,4305.21,2711.95,S0082,4.58
+P0348,Electronics Item 348,Electronic,Electronics - Type 3,42155.65,31773.39,S0186,4.56
+P0148,Beauty Item 148,Beauty,Beauty - Type 3,644.47,425.07,S0101,3.58
+P0558,Books Item 558,Books,Books - Type 4,425.16,282.71,S0189,3.87
+P0238,Sports Item 238,Sports,Sports - Type 4,3495.83,2566.37,S0063,2.98
+P0383,Electronics Item 383, Electronics ,Electronics - Type 3,2814.0,2098.97,S0126,4.68
+P0554,Sports Item 554,Sports,Sports - Type 3,3130.34,2153.92,S0149,4.29
+P0466,Fashion Item 466,Fashion,Fashion - Type 3,347.57,192.12,S0160,4.36
+P0083,Sports Item 83,Sports,Sports - Type 3,4876.06,3339.33,S0110,4.44
+P0180,Electronics Item 180,Electronic,Electronics - Type 2,4142.49,3458.35,S0028,3.46
+P0048,Beauty Item 48,Beauty,Beauty - Type 3,767.12,523.45,S0153,4.12
+P0480,Home & Kitchen Item 480,Home & Kitchen,Home & Kitchen - Type 1,7886.21,4696.72,S0191,2.85
+P0008,Home & Kitchen Item 8,Home & Kitchen,Home & Kitchen - Type 4,11597.75,7027.28,S0188,4.74
+P0496,Electronics Item 496,Electronic,Electronics - Type 3,4236.87,3522.16,S0104,3.95
+P0305,Home & Kitchen Item 305, Home & Kitchen ,Home & Kitchen - Type 2,14523.53,10874.15,S0156,2.55
+P0532,Beauty Item 532,Beauty,Beauty - Type 3,2344.03,1185.24,S0021,2.56
+P0544,Home & Kitchen Item 544,Home & Kitchen,Home & Kitchen - Type 3,1857.2,983.33,S0175,3.0
+P0237,Toys Item 237,Toys,Toys - Type 3,466.74,249.26,S0007,3.77
+P0307,Grocery Item 307,Grocery,Grocery - Type 4,64.86,57.77,S0140,3.52
+P0035,Toys Item 35,Toys,Toys - Type 1,2104.78,1571.55,S0195,3.03
+P0050,Books Item 50,Books,Books - Type 4,559.7,377.13,S0101,2.9
+P0224,Grocery Item 224,Grocery,Grocery - Type 1,114.19,102.47,S0072,3.3
+P0396,Fashion Item 396,Fashion,Fashion - Type 3,2196.34,1358.3,S0042,2.64
+P0183,Fashion Item 183,FASHION,Fashion - Type 4,,160.85,S0052,4.68
+P0261,Books Item 261,Books,Books - Type 4,207.92,136.95,S0036,3.96
+P0086,Beauty Item 86,Beauty,Beauty - Type 3,1441.31,891.72,S0176,4.06
+P0163,Fashion Item 163,Fashion,Fashion - Type 2,2306.92,1260.56,S0044,4.74
+P0160,Toys Item 160,Toys,Toys - Type 4,-2525.45,1824.97,S0193,3.17
+P0439,Home & Kitchen Item 439,Home & Kitchen,Home & Kitchen - Type 1,11590.14,7892.83,S0191,4.74
+P0091,Beauty Item 91,Beauty,Beauty - Type 1,,180.92,S0065,2.56
+P0530,Electronics Item 530,Electronic,Electronics - Type 2,28863.01,20207.2,S0057,3.5
+P0066,Toys Item 66,Toys,Toys - Type 2,1888.84,1335.93,S0073,4.56
+P0042,Books Item 42,Books,Books - Type 4,583.54,389.59,S0111,3.4
+P0577,Sports Item 577,Sports,Sports - Type 3,846.66,499.58,S0100,2.5
+P0112,Home & Kitchen Item 112, Home & Kitchen ,Home & Kitchen - Type 1,515.53,351.23,S0192,4.04
+P0121,Fashion Item 121,Fashion,Fashion - Type 4,725.23,344.46,S0018,2.72
+P0557,Electronics Item 557,Electronic,Electronics - Type 3,,2409.45,S0117,3.18
+P0449,Sports Item 449,Sports,Sports - Type 4,2967.98,2284.56,S0160,3.3
+P0551,Sports Item 551, Sports ,Sports - Type 1,804.94,631.06,S0178,3.46
+P0063,Fashion Item 63,Fashion,Fashion - Type 1,545.83,251.83,S0198,3.19
+P0089,Fashion Item 89,Fashion,Fashion - Type 3,828.98,553.81,S0034,3.11
+P0453,Electronics Item 453,Electronic,Electronics - Type 4,,1627.03,S0030,4.43
+P0251,Home & Kitchen Item 251,Home & Kitchen,Home & Kitchen - Type 2,-635.73,455.66,S0059,4.16
+P0120,Sports Item 120,Sports,Sports - Type 2,2888.7,1760.61,S0168,4.74
+P0354,Fashion Item 354,Fashion,Fashion - Type 2,482.39,313.78,S0021,3.18
+P0018,Beauty Item 18,Beauty,Beauty - Type 1,370.76,189.9,S0078,3.9
+P0188,Books Item 188,Books,Books - Type 3,311.52,246.17,S0003,2.86
+P0061,Fashion Item 61,Fashion,Fashion - Type 2,502.68,272.25,S0159,4.41
+P0403,Fashion Item 403,Fashion,Fashion - Type 2,2004.09,1331.53,S0099,4.23
+P0422,Beauty Item 422,Beauty,Beauty - Type 2,-1067.95,599.69,S0009,2.84
+P0290,Fashion Item 290,Fashion,Fashion - Type 3,1423.63,845.08,S0077,4.81
+P0510,Home & Kitchen Item 510,Home & Kitchen,Home & Kitchen - Type 4,5507.88,3420.7,S0152,3.43
+P0246,Fashion Item 246,Fashion,Fashion - Type 3,820.53,458.79,S0161,4.06
+P0460,Electronics Item 460,Electronic,Electronics - Type 2,46612.69,38999.43,S0119,3.86
+P0030,Electronics Item 30,Electronic,Electronics - Type 2,3831.5,2988.82,S0059,3.59
+P0275,Books Item 275, Books ,Books - Type 4,327.71,235.16,S0126,2.85
+P0438,Books Item 438,Books,Books - Type 1,243.95,196.37,S0171,4.66
+P0248,Electronics Item 248,Electronic,Electronics - Type 3,26271.33,22117.18,S0147,2.55
+P0476,Beauty Item 476,Beauty,Beauty - Type 1,237.3,115.64,S0180,4.14
+P0234,Toys Item 234,Toys,Toys - Type 3,361.81,241.84,S0082,2.81
+P0242,Grocery Item 242,Grocery,Grocery - Type 2,155.35,132.14,S0034,3.24
+P0208,Fashion Item 208,Fashion,Fashion - Type 1,3760.63,1695.39,S0120,2.87
+P0293,Beauty Item 293,Beauty,Beauty - Type 4,903.17,500.54,S0133,4.96
+P0334,Books Item 334,Books,Books - Type 4,480.24,314.13,S0161,4.13
+P0258,Electronics Item 258,ELECTRONICS,Electronics - Type 4,13057.39,1085207.0,S0120,2.53
+P0483,Beauty Item 483,Beauty,Beauty - Type 4,189.45,89.42,S0129,4.09
+P0556,Fashion Item 556,Fashion,Fashion - Type 2,399.67,272.23,S0184,2.76
+P0459,Sports Item 459,Sports,Sports - Type 2,3228.42,2133.9,S0036,3.51
+P0371,Fashion Item 371,Fashion,Fashion - Type 2,713.78,499.4,S0163,3.98
+P0186,Sports Item 186,Sports,Sports - Type 2,7033.27,4709.41,S0037,4.62
+P0081,Beauty Item 81,Beauty,Beauty - Type 2,253.52,156.27,S0043,2.9
+P0364,Fashion Item 364,FASHION,Fashion - Type 1,3611.39,1709.3,S0200,2.91
+P0578,Home & Kitchen Item 578,Home & Kitchen,Home & Kitchen - Type 1,444.73,317.92,S0113,3.19
+P0508,Books Item 508,Books,Books - Type 3,436.18,351.0,S0027,4.05
+P0500,Electronics Item 500,ELECTRONICS,Electronics - Type 2,11791.62,9606.76,S0185,3.21
+P0287,Electronics Item 287,Electronic,Electronics - Type 3,5834.25,4514.0,S0074,3.7
+P0004,Fashion Item 4,Fashion,Fashion - Type 4,385.18,183.0,S0200,4.83
+P0136,Toys Item 136,Toys,Toys - Type 3,1454.59,1006.23,S0010,4.65
+P0010,Beauty Item 10,Beauty,Beauty - Type 3,-1979.97,1261.42,S0120,3.59
+P0225,Sports Item 225,Sports,Sports - Type 1,1352.37,832.93,S0008,4.16
+P0302,Fashion Item 302,Fashion,Fashion - Type 1,607.7,251.87,S0064,2.92
+P0196,Sports Item 196,Sports,Sports - Type 4,3136.9,2286.96,S0112,4.71
+P0534,Home & Kitchen Item 534,Home & Kitchen,Home & Kitchen - Type 2,1028.78,570.7,S0083,3.48
+P0338,Electronics Item 338,Electronic,Electronics - Type 4,5366.79,4558.61,S0029,3.76
+P0594,Electronics Item 594,Electronic,Electronics - Type 3,8044.24,5837.05,S0154,2.6
+P0458,Sports Item 458,Sports,Sports - Type 2,824.36,508.57,S0118,3.22
+P0166,Fashion Item 166,Fashion,Fashion - Type 4,374.22,151.92,S0113,3.83
+P0342,Books Item 342,Books,Books - Type 1,361.66,247.24,S0075,3.96
+P0586,Fashion Item 586,Fashion,Fashion - Type 2,487.56,203.25,S0149,2.83
+P0215,Home & Kitchen Item 215,HOME & KITCHEN,Home & Kitchen - Type 2,7894.5,5497.18,S0182,2.89
+P0372,Sports Item 372,Sports,Sports - Type 1,9218.42,6481.13,S0141,2.95
+P0315,Grocery Item 315,Grocery,Grocery - Type 1,56.4,49.55,S0002,3.56
+P0070,Books Item 70,Books,Books - Type 3,260.61,202.54,S0199,3.51
+P0041,Fashion Item 41,Fashion,Fashion - Type 4,1917.54,778.56,S0197,4.15
+P0412,Electronics Item 412,Electronic,Electronics - Type 4,20797.2,14905.69,S0052,2.57
+P0519,Beauty Item 519,Beauty,Beauty - Type 2,203.46,95.82,S0184,3.9
+P0219,Books Item 219,Books,Books - Type 1,318.66,210.0,S0011,2.77
+P0133,Electronics Item 133,Electronic,Electronics - Type 2,3916.14,3031.38,S0180,2.83
+P0432,Beauty Item 432,Beauty,Beauty - Type 1,,1051.51,S0131,4.77
+P0006,Electronics Item 6,Electronic,Electronics - Type 4,40427.12,30694.17,S0162,2.86
+P0161,Fashion Item 161,Fashion,Fashion - Type 1,2670.69,1544.79,S0097,2.86
+P0375,Sports Item 375,Sports,Sports - Type 3,425.97,262.51,S0018,3.82
+P0039,Fashion Item 39,Fashion,Fashion - Type 3,1544.6,668.41,S0124,4.06
+P0309,Beauty Item 309,Beauty,Beauty - Type 3,1652.91,927.67,S0093,2.67
+P0193,Home & Kitchen Item 193,Home & Kitchen,Home & Kitchen - Type 1,10222.55,5964.09,S0102,4.79
+P0181,Electronics Item 181,Electronic,Electronics - Type 1,12619.6,10223.79,S0107,3.07
+P0068,Sports Item 68, Sports ,Sports - Type 3,4072.16,3196.08,S0142,3.71
+P0125,Toys Item 125,Toys,Toys - Type 4,650.95,373.88,S0008,3.39
+P0040,Beauty Item 40,Beauty,Beauty - Type 3,198.56,126.8,S0103,2.62
+P0256,Books Item 256,Books,Books - Type 4,125.83,96.36,S0079,4.5
+P0430,Electronics Item 430,Electronic,Electronics - Type 4,7440.27,5344.27,S0104,3.11
+P0517,Sports Item 517,Sports,Sports - Type 1,3043.55,2170.7,S0087,4.75
+P0579,Electronics Item 579,Electronic,Electronics - Type 4,14600.24,10673.49,S0051,4.14
+P0377,Grocery Item 377,Grocery,Grocery - Type 2,933.34,847.85,S0158,4.24
+P0404,Books Item 404,Books,Books - Type 1,259.17,173.02,S0143,4.29
+P0319,Fashion Item 319, Fashion ,Fashion - Type 3,1436.9,823.01,S0053,3.72
+P0434,Books Item 434,Books,Books - Type 1,105.9,72.84,S0003,2.67
+P0032,Books Item 32,Books,Books - Type 4,629.97,462.84,S0174,3.73
+P0201,Fashion Item 201,Fashion,Fashion - Type 1,692.3,422.69,S0103,2.53
+P0096,Fashion Item 96,Fashion,Fashion - Type 4,1760.48,1154.65,S0056,2.77
+P0440,Electronics Item 440,Electronics,Electronics - Type 3,4756.55,3906.56,S0013,2.71
+P0346,Electronics Item 346,Electronic,Electronics - Type 1,18420.55,13521.09,S0155,4.46
+P0585,Home & Kitchen Item 585,Home & Kitchen,Home & Kitchen - Type 2,9395.25,6654.75,S0171,3.84
+P0351,Electronics Item 351,Electronic,Electronics - Type 2,3682.0,2945.71,S0100,4.91
+P0075,Electronics Item 75,Electronics,Electronics - Type 3,1909.36,1358.35,S0090,3.25
+P0308,Electronics Item 308,Electronic,Electronics - Type 1,19422.65,16193.65,S0042,3.87
+P0324,Electronics Item 324,Electronic,Electronics - Type 1,14272.4,10525.22,S0066,4.8
+P0062,Books Item 62,Books,Books - Type 4,194.74,137.35,S0028,4.13
+P0418,Home & Kitchen Item 418,Home & Kitchen,Home & Kitchen - Type 3,1893.06,989.83,S0024,3.87
+P0260,Beauty Item 260,BEAUTY,Beauty - Type 4,213.8,120.97,S0198,3.16
+P0077,Beauty Item 77,Beauty,Beauty - Type 3,339.78,195.86,S0159,4.54
+P0262,Home & Kitchen Item 262,Home & Kitchen,Home & Kitchen - Type 1,5197.16,3875.71,S0078,4.6
+P0316,Books Item 316,Books,Books - Type 1,418.61,293.04,S0117,4.84
+P0294,Home & Kitchen Item 294,Home & Kitchen,Home & Kitchen - Type 2,4717.18,2933.8,S0200,2.86
+P0069,Electronics Item 69,Electronic,Electronics - Type 3,7266.27,5466.01,S0035,3.77
+P0552,Home & Kitchen Item 552,Home & Kitchen,Home & Kitchen - Type 2,463.18,304.31,S0127,4.92
+P0597,Home & Kitchen Item 597,Home & Kitchen,Home & Kitchen - Type 4,770.79,540.34,S0199,4.43
+P0005,Toys Item 5,Toys,Toys - Type 4,533.05,332.71,S0056,4.96
+P0202,Grocery Item 202,Grocery,Grocery - Type 4,981.61,888.5,S0168,3.84
+P0450,Grocery Item 450,Grocery,Grocery - Type 1,255.02,230.93,S0151,4.56
+P0506,Beauty Item 506,Beauty,Beauty - Type 2,,87.65,S0063,4.13
+P0269,Books Item 269,Books,Books - Type 3,144.32,97.66,S0048,4.91
+P0020,Home & Kitchen Item 20,Home & Kitchen,Home & Kitchen - Type 1,1242.09,659.72,S0160,2.57
+P0350,Books Item 350,,Books - Type 1,423.13,272.48,S0047,2.61
+P0567,Toys Item 567,Toys,Toys - Type 4,1309.97,846.61,S0040,2.57
+P0118,Books Item 118,Books,Books - Type 1,366.46,249.01,S0188,3.15
+P0345,Toys Item 345,Toys,Toys - Type 1,368.6,211.05,S0084,2.66
+P0079,Books Item 79,Books,Books - Type 4,277.72,199.41,S0057,3.14
+P0478,Electronics Item 478,Electronic,Electronics - Type 3,2069.36,1567.13,S0071,3.3
+P0058,Home & Kitchen Item 58,Home & Kitchen,Home & Kitchen - Type 2,1299.96,750.75,S0041,3.88
+P0588,Fashion Item 588,Fashion,Fashion - Type 2,525.6,210.99,S0083,5.0
+P0043,Fashion Item 43,Fashion,Fashion - Type 4,1285.41,682.18,S0101,4.82
+P0335,Beauty Item 335,Beauty,Beauty - Type 3,1298.25,861.91,S0112,4.65
+P0306,Home & Kitchen Item 306,Home & Kitchen,Home & Kitchen - Type 3,3298.13,2141.26,S0010,3.2
+P0082,Books Item 82,Books,Books - Type 3,512.8,415.09,S0162,3.52
+P0134,Toys Item 134,Toys,Toys - Type 1,222.27,120.25,S0029,2.53
+P0278,Toys Item 278,Toys,Toys - Type 1,-633.42,462.07,S0038,4.99
+P0482,Electronics Item 482,Electronic,Electronics - Type 3,15649.25,12135.28,S0096,4.53
+P0162,Electronics Item 162, Electronics ,Electronics - Type 3,21660.61,18113.08,S0176,2.88
+P0362,Home & Kitchen Item 362,Home & Kitchen,Home & Kitchen - Type 3,546.16,394.02,S0163,2.71
+P0292,Fashion Item 292,Fashion,Fashion - Type 3,,1256.96,S0122,3.62
+P0541,Home & Kitchen Item 541,Home & Kitchen,Home & Kitchen - Type 4,10465.63,6013.39,S0194,4.66
+P0537,Fashion Item 537,Fashion,Fashion - Type 3,4483.31,2477.84,S0189,4.7
+P0420,Toys Item 420,Toys,Toys - Type 2,1869.64,1411.11,S0167,4.93
+P0268,Beauty Item 268,NAN,Beauty - Type 2,522.56,240.91,S0149,4.38
+P0416,Sports Item 416,Sports,Sports - Type 1,,182.51,S0052,2.69
+P0566,Electronics Item 566,Electronic,Electronics - Type 2,6659.29,4689.25,S0110,4.6
+P0397,Fashion Item 397,Fashion,Fashion - Type 1,694.89,279.31,S0024,4.29
+P0456,Toys Item 456,Toys,Toys - Type 1,1137.36,650.86,S0166,3.16
+P0190,Sports Item 190,Sports,Sports - Type 4,1327.83,930.38,S0102,3.68
+P0140,Electronics Item 140,Electronic,Electronics - Type 2,29587.89,23843.5,S0130,4.73
+P0158,Beauty Item 158,BEAUTY,Beauty - Type 2,2560.56,1305.76,S0098,4.99
+P0017,Electronics Item 17,Electronic,Electronics - Type 3,5406.24,4511.93,S0157,3.79
+P0587,Books Item 587,Books,Books - Type 2,314.42,237.12,S0179,4.03
+P0598,Books Item 598,Books,Books - Type 1,365.91,290.77,S0018,2.61
+P0410,Fashion Item 410,Fashion,Fashion - Type 4,4992.66,2997.42,S0145,4.36
+P0122,Electronics Item 122,ELECTRONICS,Electronics - Type 3,24034.78,19567.21,S0145,4.47
+P0103,Fashion Item 103,Fashion,Fashion - Type 3,878.09,391.79,S0097,4.86
+P0053,Toys Item 53,,Toys - Type 4,320.3,195.39,S0134,3.26
+P0359,Home & Kitchen Item 359,Home & Kitchen,Home & Kitchen - Type 2,630.85,436.93,S0142,3.33
+P0436,Electronics Item 436,Electronics,Electronics - Type 3,49587.62,36978.06,S0173,2.88
+P0147,Beauty Item 147,Beauty,Beauty - Type 3,374.92,178.41,S0197,4.39
+P0580,Home & Kitchen Item 580,Home & Kitchen,Home & Kitchen - Type 3,9838.36,6767.59,S0034,3.64
+P0502,Fashion Item 502,Fashion,Fashion - Type 3,693.05,340.53,S0033,4.36
+P0485,Books Item 485,Books,Books - Type 2,652.09,466.98,S0109,4.99
+P0575,Beauty Item 575,Beauty,Beauty - Type 1,276.48,127.42,S0121,3.07
+P0129,Grocery Item 129,Grocery,Grocery - Type 4,315.95,278.56,S0032,4.48
+P0284,Electronics Item 284,Electronic,Electronics - Type 1,26209.61,21858.9,S0041,3.2
+P0448,Home & Kitchen Item 448,Home & Kitchen,Home & Kitchen - Type 1,1755.85,925.13,S0136,3.76
+P0426,Sports Item 426,Sports,Sports - Type 2,328.14,209.08,S0038,3.26
+P0111,Electronics Item 111,Electronic,Electronics - Type 3,3393.26,2794.57,S0163,3.27
+P0441,Beauty Item 441,Beauty,Beauty - Type 2,2932.54,1394.45,S0055,4.68
+P0336,Electronics Item 336,Electronic,Electronics - Type 4,7342.1,5814.72,S0017,4.97
+P0529,Electronics Item 529,Electronic,Electronics - Type 1,52372.13,36704.16,S0107,3.57
+P0360,Electronics Item 360, Electronics ,Electronics - Type 2,-49305.38,39677.07,S0186,4.26
+P0243,Electronics Item 243,Electronic,Electronics - Type 1,39491.42,32887.17,S0160,2.64
+P0374,Home & Kitchen Item 374,Home & Kitchen,Home & Kitchen - Type 3,3575.87,2458.49,S0173,2.62
+P0387,Toys Item 387,Toys,Toys - Type 1,898.02,566.86,S0018,4.99
+P0143,Grocery Item 143,Grocery,Grocery - Type 1,953.62,847.15,S0080,3.66
+P0474,Home & Kitchen Item 474,Home & Kitchen,Home & Kitchen - Type 1,12598.71,9396.14,S0184,4.01
+P0007,Electronics Item 7,Electronic,Electronics - Type 4,1648.44,1222.5,S0076,3.73
+P0296,Home & Kitchen Item 296,Home & Kitchen,Home & Kitchen - Type 2,489.67,259.04,S0056,3.92
+P0012,Home & Kitchen Item 12,Home & Kitchen,Home & Kitchen - Type 2,10840.66,7856.86,S0038,2.6
+P0591,Toys Item 591,TOYS,Toys - Type 1,391.2,28688.0,S0064,4.06
+P0592,Fashion Item 592,Fashion,Fashion - Type 1,572.43,380.65,S0114,4.7
+P0443,Toys Item 443,Toys,Toys - Type 3,1771.0,1166.33,S0103,4.44
+P0565,Sports Item 565,Sports,Sports - Type 2,1191.93,921.37,S0112,3.05
+P0059,Electronics Item 59,Electronic,Electronics - Type 3,4845.99,3516.72,S0145,4.28
+P0533,Sports Item 533,SPORTS,Sports - Type 4,441.38,320.63,S0100,3.16
+P0233,Books Item 233,BOOKS,Books - Type 2,690.62,466.45,S0163,3.99
+P0568,Electronics Item 568,Electronic,Electronics - Type 2,4663.15,3707.64,S0114,4.57
+P0512,Sports Item 512,Sports,Sports - Type 3,623.23,365.7,S0057,2.57
+P0187,Beauty Item 187,Beauty,Beauty - Type 1,280.7,130.7,S0151,4.08
+P0204,Fashion Item 204,Fashion,Fashion - Type 1,2398.34,1441.38,S0115,4.92
+P0363,Books Item 363,Books,Books - Type 4,,168.73,S0168,4.84
+P0263,Fashion Item 263,Fashion,Fashion - Type 1,3726.04,2145.57,S0170,4.36
+P0312,Beauty Item 312,Beauty,Beauty - Type 4,740.44,539.96,S0097,3.03
+P0003,Beauty Item 3,Beauty,Beauty - Type 2,547.57,275.34,S0072,5.0
+P0102,Grocery Item 102,Grocery,Grocery - Type 3,195.37,165.98,S0018,4.11
+P0274,Books Item 274, Books ,Books - Type 3,140.33,108.28,S0174,4.49
+P0378,Sports Item 378,Sports,Sports - Type 2,6107.46,3860.67,S0009,4.84
+P0520,Sports Item 520,,Sports - Type 2,4762.61,351747.0,S0198,4.2
+P0105,Electronics Item 105,Electronic,Electronics - Type 3,4041.13,3409.17,S0133,3.66
+P0047,Electronics Item 47,Electronic,Electronics - Type 2,4414.86,3106.22,S0093,4.8
+P0389,Fashion Item 389,Fashion,Fashion - Type 2,372.7,240.78,S0197,3.87
+P0376,Home & Kitchen Item 376,Home & Kitchen,Home & Kitchen - Type 3,2306.27,1380.55,S0137,2.66
+P0380,Home & Kitchen Item 380,Home & Kitchen,Home & Kitchen - Type 1,1286.95,773.77,S0104,3.43
+P0226,Toys Item 226,Toys,Toys - Type 2,489.49,370.89,S0066,4.21
+P0019,Home & Kitchen Item 19,Home & Kitchen,Home & Kitchen - Type 3,2392.28,1719.62,S0166,3.36
+P0169,Fashion Item 169,Fashion,Fashion - Type 3,560.7,279.4,S0125,4.47
+P0386,Toys Item 386,Toys,Toys - Type 3,277.06,177.72,S0023,3.42
+P0393,Fashion Item 393,Fashion,Fashion - Type 2,1215.12,654.18,S0103,4.49
+P0429,Home & Kitchen Item 429,Home & Kitchen,Home & Kitchen - Type 2,1516.16,928.28,S0122,3.92
+P0548,Fashion Item 548,Fashion,Fashion - Type 3,1601.79,943.49,S0128,4.73
+P0415,Beauty Item 415,Beauty,Beauty - Type 3,171.66,92.08,S0104,4.6
+P0286,Beauty Item 286,Beauty,Beauty - Type 4,875.41,418.48,S0120,3.22
+P0094,Beauty Item 94,BEAUTY,Beauty - Type 3,903.9,465.02,S0111,4.72
+P0214,Fashion Item 214,Fashion,Fashion - Type 1,549.48,231.91,S0016,3.01
+P0259,Sports Item 259, Sports ,Sports - Type 1,426.92,263.22,S0066,4.78
+P0540,Electronics Item 540,Electronic,Electronics - Type 2,8326.26,6663.17,S0067,4.9
+P0107,Home & Kitchen Item 107,Home & Kitchen,Home & Kitchen - Type 1,2112.81,1198.9,S0171,4.22
+P0116,Fashion Item 116,Fashion,Fashion - Type 4,458.0,239.56,S0052,3.21
+P0560,Sports Item 560,Sports,Sports - Type 1,-897.82,708.18,S0047,3.77
+P0442,Electronics Item 442,Electronic,Electronics - Type 1,-5443.81,4414.93,S0092,4.32
+P0437,Beauty Item 437,,Beauty - Type 2,740.24,420.04,S0160,3.03
+P0037,Toys Item 37,Toys,Toys - Type 1,603.15,339.35,S0190,2.83
+P0347,Books Item 347,BOOKS,Books - Type 3,747.77,534.49,S0087,3.21
+P0205,Fashion Item 205,Fashion,Fashion - Type 4,4384.41,3021.11,S0011,4.73
+P0245,Fashion Item 245, Fashion ,Fashion - Type 3,,159308.0,S0102,4.93
+P0222,Home & Kitchen Item 222,Home & Kitchen,Home & Kitchen - Type 3,12340.46,7253.88,S0044,4.31
+P0247,Sports Item 247,Sports,Sports - Type 2,3185.93,2141.52,S0177,4.58
+P0356,Beauty Item 356,Beauty,Beauty - Type 2,1405.25,747.85,S0077,4.97
+P0303,Home & Kitchen Item 303,Home & Kitchen,Home & Kitchen - Type 2,1085.54,629.13,S0125,4.99
+P0250,Books Item 250,Books,Books - Type 3,624.6,507.31,S0078,3.71
+P0123,Sports Item 123,Sports,Sports - Type 1,2648.92,1717.07,S0015,2.89
+P0522,Home & Kitchen Item 522,Home & Kitchen,Home & Kitchen - Type 1,,939.32,S0096,3.82
+P0165,Beauty Item 165,Beauty,Beauty - Type 4,208.15,140.92,S0096,3.35
+P0524,Fashion Item 524, Fashion ,Fashion - Type 1,1318.97,840.15,S0127,2.98
+P0570,Electronics Item 570,Electronic,Electronics - Type 3,2627.36,1958.87,S0063,4.08
+P0240,Home & Kitchen Item 240,Home & Kitchen,Home & Kitchen - Type 2,2597.72,1675.49,S0013,3.68
+P0428,Beauty Item 428,Beauty,Beauty - Type 2,705.79,399.66,S0028,4.67
+P0352,Fashion Item 352,Fashion,Fashion - Type 1,3025.93,2061.06,S0023,4.45
+P0518,Books Item 518,Books,Books - Type 4,160.37,129.09,S0130,2.93
+P0071,Fashion Item 71,Fashion,Fashion - Type 2,1107.86,493.08,S0027,3.36
+P0330,Sports Item 330,Sports,Sports - Type 2,1454.47,958.18,S0066,3.8
+P0099,Electronics Item 99,Electronic,Electronics - Type 3,9747.87,7999.91,S0117,3.48
+P0582,Home & Kitchen Item 582,Home & Kitchen,Home & Kitchen - Type 1,441.08,243.76,S0189,2.5
+P0595,Electronics Item 595,Electronic,Electronics - Type 2,3828.31,2744.65,S0186,3.01
+P0031,Electronics Item 31, Electronics ,Electronics - Type 2,17162.49,13074.89,S0114,3.58
+P0381,Grocery Item 381,GROCERY,Grocery - Type 2,1165.41,956.41,S0042,3.09
+P0128,Beauty Item 128,Beauty,Beauty - Type 4,1151.52,684.8,S0139,4.42
+P0002,Toys Item 2,Toys,Toys - Type 3,1490.77,878.34,S0145,2.87
+P0313,Toys Item 313,Toys,Toys - Type 3,870.03,560.41,S0133,4.5
+P0028,Fashion Item 28,Fashion,Fashion - Type 1,2519.75,1257.46,S0018,3.93
+P0090,Fashion Item 90,Fashion,Fashion - Type 3,,1791.78,S0186,4.41
+P0074,Beauty Item 74, Beauty ,Beauty - Type 3,166.07,97.45,S0106,3.51
+P0464,Beauty Item 464, Beauty ,Beauty - Type 2,1530.86,775.08,S0011,4.71
+P0172,Sports Item 172,Sports,Sports - Type 2,2441.66,1484.63,S0096,2.71
+P0369,Books Item 369,Books,Books - Type 2,370.85,297.39,S0157,4.15
+P0424,Sports Item 424,Sports,Sports - Type 1,-100.0,260.68,S0194,3.79
+P0340,Fashion Item 340,Fashion,Fashion - Type 2,,570.54,S0119,2.51
+P0092,Fashion Item 92,Fashion,Fashion - Type 2,331.21,134.38,S0153,4.54
+P0553,Home & Kitchen Item 553,Home & Kitchen,Home & Kitchen - Type 4,2076.8,1418.74,S0123,2.55
+P0528,Toys Item 528,Toys,Toys - Type 4,2605.71,1577.24,S0123,4.86
+P0126,Toys Item 126,Toys,Toys - Type 4,200.37,128.19,S0161,3.02
+P0593,Fashion Item 593,Fashion,Fashion - Type 1,868.26,481.14,S0008,4.86
+P0013,Beauty Item 13,Beauty,Beauty - Type 1,258.39,164.43,S0190,4.03
+P0454,Beauty Item 454,Beauty,Beauty - Type 1,2706.93,1497.96,S0149,3.28
+P0555,Fashion Item 555,Fashion,Fashion - Type 1,369.55,220.1,S0016,4.95
+P0401,Electronics Item 401,Electronic,Electronics - Type 3,8592.35,6375.67,S0130,4.33
+P0239,Fashion Item 239,Fashion,Fashion - Type 2,3843.64,2293.64,S0145,4.49
+P0499,Home & Kitchen Item 499,Home & Kitchen,Home & Kitchen - Type 2,1413.6,802.67,S0107,2.51
+P0599,Sports Item 599,,Sports - Type 3,405.05,313.72,S0026,4.76
+P0578,Home & Kitchen Item 578,Home & Kitchen,Home & Kitchen - Type 1,444.73,317.92,S0113,3.19
+P0144,Grocery Item 144,Grocery,Grocery - Type 4,86.28,77.96,S0070,3.43
+P0527,Home & Kitchen Item 527,Home & Kitchen,Home & Kitchen - Type 4,770.87,449.03,S0021,2.53
+P0015,Books Item 15,NAN,Books - Type 4,334.2,267.23,S0103,2.51
+P0576,Electronics Item 576,Electronic,Electronics - Type 4,46271.31,33762.88,S0049,3.96
+P0497,Electronics Item 497,Electronic,Electronics - Type 3,24119.08,18446.67,S0031,4.35
+P0209,Beauty Item 209,Beauty,Beauty - Type 4,205.92,118.06,S0145,2.6
+P0132,Toys Item 132,Toys,Toys - Type 3,1178.65,645.58,S0098,3.59
+P0175,Beauty Item 175,Beauty,Beauty - Type 1,1351.01,964.16,S0169,3.06
+P0452,Fashion Item 452,Fashion,Fashion - Type 4,576.55,239.17,S0018,3.58
+P0192,Fashion Item 192,Fashion,Fashion - Type 1,472.93,248.91,S0196,2.93
+P0271,Fashion Item 271,Fashion,Fashion - Type 2,408.04,245.66,S0026,2.86
+P0366,Books Item 366,Books,Books - Type 1,362.64,289.77,S0159,2.76
+P0124,Books Item 124,Books,Books - Type 2,176.94,130.7,S0013,3.32
+P0139,Sports Item 139,Sports,Sports - Type 4,6844.74,4023.11,S0082,3.6
+P0052,Fashion Item 52,Fashion,Fashion - Type 1,317.87,13781.0,S0151,4.15
+P0511,Electronics Item 511,Electronic,Electronics - Type 3,1902.79,1486.04,S0079,3.34
+P0113,Sports Item 113,Sports,Sports - Type 4,941.5,683.92,S0013,3.04
+P0266,Sports Item 266,Sports,Sports - Type 3,1029.56,779.55,S0130,3.85
+P0487,Toys Item 487, Toys ,Toys - Type 1,598.25,362.05,S0033,4.24
+P0273,Beauty Item 273,Beauty,Beauty - Type 2,-2983.41,1876.02,S0023,3.64
+P0343,Electronics Item 343,Electronic,Electronics - Type 3,35113.59,28168.19,S0030,3.82
+P0257,Grocery Item 257, Grocery ,Grocery - Type 2,69.54,61.94,S0075,2.81
+P0507,Home & Kitchen Item 507,Home & Kitchen,Home & Kitchen - Type 4,451.56,320.63,S0045,2.81
+P0106,Electronics Item 106,Electronic,Electronics - Type 4,11942.54,9749.26,S0114,4.9
+P0301,Electronics Item 301,Electronic,Electronics - Type 3,5730.04,4868.08,S0176,2.54
+P0130,Fashion Item 130,Fashion,Fashion - Type 3,724.36,345.13,S0185,4.99
+P0427,Home & Kitchen Item 427,Home & Kitchen,Home & Kitchen - Type 4,6554.57,4479.72,S0055,2.89
+P0241,Books Item 241,Books,Books - Type 3,682.53,527.04,S0200,4.1
+P0231,Home & Kitchen Item 231,HOME & KITCHEN,Home & Kitchen - Type 2,455.79,260.03,S0003,3.0
+P0154,Fashion Item 154,Fashion,Fashion - Type 2,1719.22,748.55,S0076,4.22
+P0327,Sports Item 327,Sports,Sports - Type 2,6817.84,4803.58,S0004,4.67
+P0465,Toys Item 465,Toys,Toys - Type 3,325.05,232.83,S0188,4.61
+P0408,Electronics Item 408,Electronic,Electronics - Type 2,9309.7,7612.56,S0014,3.4
+P0295,Sports Item 295,Sports,Sports - Type 1,6268.44,4624.56,S0072,4.52
+P0151,Electronics Item 151,Electronic,Electronics - Type 4,1657.17,1383.0,S0069,2.5
+P0423,Sports Item 423,Sports,Sports - Type 1,938.22,549.49,S0178,4.11
+P0164,Electronics Item 164,Electronic,Electronics - Type 1,41548.13,34141.77,S0070,2.76
+P0168,Beauty Item 168,Beauty,Beauty - Type 4,1696.35,1125.32,S0063,3.99
+P0495,Fashion Item 495,Fashion,Fashion - Type 3,2269.57,1145.38,S0023,2.8
+P0207,Home & Kitchen Item 207,HOME & KITCHEN,Home & Kitchen - Type 4,1080.02,749.37,S0128,4.95
+P0189,Electronics Item 189,Electronic,Electronics - Type 4,10109.84,7138.53,S0072,2.91
+P0407,Sports Item 407,Sports,Sports - Type 2,321.24,214.19,S0191,3.43
+P0325,Books Item 325,Books,Books - Type 1,-100.0,572.03,S0005,4.3
+P0146,Beauty Item 146,Beauty,Beauty - Type 1,271.18,185.54,S0166,4.42
+P0503,Beauty Item 503,Beauty,Beauty - Type 2,1223.93,742.96,S0126,2.53
+P0227,Electronics Item 227,Electronic,Electronics - Type 4,17121.75,14039.67,S0156,3.18
+P0217,Sports Item 217,Sports,Sports - Type 1,837.11,593.47,S0065,3.95
+P0501,Home & Kitchen Item 501,HOME & KITCHEN,Home & Kitchen - Type 3,484.52,296.6,S0056,4.45
+P0203,Grocery Item 203,Grocery,Grocery - Type 4,1229.1,1082.3,S0181,4.4
+P0299,Electronics Item 299,Electronic,Electronics - Type 3,12055.39,8762.44,S0127,3.24
+P0546,Home & Kitchen Item 546,Home & Kitchen,Home & Kitchen - Type 4,6446.68,4244.04,S0153,4.77
+P0447,Electronics Item 447,Electronic,Electronics - Type 4,5944.68,4266.88,S0032,3.0
+P0505,Toys Item 505,TOYS,Toys - Type 1,711.46,390.9,S0075,3.59
+P0409,Sports Item 409,Sports,Sports - Type 3,1674.99,1318.74,S0183,4.02
+P0475,Fashion Item 475,FASHION,Fashion - Type 2,2979.44,1891.74,S0075,2.78
+P0176,Toys Item 176,Toys,Toys - Type 3,685.63,505.41,S0099,4.94
+P0550,Fashion Item 550,Fashion,Fashion - Type 1,476.94,215.1,S0078,3.03
+P0095,Books Item 95,Books,Books - Type 3,194.25,146.92,S0025,2.72
+P0230,Fashion Item 230,Fashion,Fashion - Type 2,3571.51,1726.67,S0073,4.39
+P0405,Home & Kitchen Item 405,Home & Kitchen,Home & Kitchen - Type 2,518.32,270.82,S0106,3.38
+P0281,Toys Item 281,Toys,Toys - Type 2,794.39,549.26,S0056,3.46
+P0445,Toys Item 445,Toys,Toys - Type 2,1563.92,1154.83,S0145,3.77
+P0229,Electronics Item 229,Electronic,Electronics - Type 4,9801.65,7752.7,S0174,4.86
+P0101,Fashion Item 101,Fashion,Fashion - Type 2,406.95,203.33,S0108,2.65
+P0291,Fashion Item 291,Fashion,Fashion - Type 4,2459.85,1203.82,S0024,3.51
+P0545,Beauty Item 545,Beauty,Beauty - Type 2,2195.11,1163.87,S0164,2.99
+P0367,Books Item 367,Books,Books - Type 1,663.96,432.67,S0059,3.17
+P0054,Beauty Item 54,BEAUTY,Beauty - Type 3,828.86,465.08,S0087,4.99
+P0228,Books Item 228,Books,Books - Type 2,309.19,252.71,S0051,2.55
+P0392,Home & Kitchen Item 392,Home & Kitchen,Home & Kitchen - Type 2,481.45,275.1,S0137,3.96
+P0590,Fashion Item 590,Fashion,Fashion - Type 4,387.82,248.29,S0029,3.82
+P0318,Toys Item 318,Toys,Toys - Type 1,1271.89,958.36,S0133,3.44
+P0155,Electronics Item 155,Electronic,Electronics - Type 2,2956.99,2161.15,S0186,4.54
+P0252,Electronics Item 252,Electronic,Electronics - Type 4,3415.32,2697.2,S0174,3.4
+P0276,Books Item 276,Books,Books - Type 4,161.27,110.45,S0009,2.6
+P0159,Grocery Item 159,Grocery,Grocery - Type 3,102.94,92.14,S0062,4.91
+P0272,Toys Item 272,Toys,Toys - Type 1,252.22,155.26,S0139,4.34
+P0045,Electronics Item 45,Electronic,Electronics - Type 1,28932.32,21040.0,S0076,4.61
+P0360,Electronics Item 360, Electronics ,Electronics - Type 2,-49305.38,39677.07,S0186,4.26
+P0114,Books Item 114,Books,Books - Type 3,343.33,235.09,S0136,2.6
+P0461,Home & Kitchen Item 461,Home & Kitchen,Home & Kitchen - Type 3,12689.25,9336.96,S0040,4.85
+P0212,Fashion Item 212,Fashion,Fashion - Type 2,1124.92,701.11,S0098,4.87
+P0109,Home & Kitchen Item 109,Home & Kitchen,Home & Kitchen - Type 3,-13843.98,8980.59,S0033,4.18
+P0321,Sports Item 321,Sports,Sports - Type 3,642.45,431.4,S0109,3.79
+P0170,Grocery Item 170,Grocery,Grocery - Type 3,194.09,162.03,S0056,3.93
+P0080,Books Item 80,Books,Books - Type 2,574.54,451.98,S0171,2.76
+P0051,Home & Kitchen Item 51,Home & Kitchen,Home & Kitchen - Type 4,478.15,311.35,S0110,4.76
+P0085,Electronics Item 85,Electronic,Electronics - Type 1,1845.33,1499.39,S0024,2.63
+P0009,Fashion Item 9,FASHION,Fashion - Type 1,3385.68,1531.72,S0157,4.19
+P0033,Electronics Item 33,Electronic,Electronics - Type 1,2892.26,2365.33,S0044,3.63
+P0100,Fashion Item 100,Fashion,Fashion - Type 4,517.95,261.49,S0050,3.93
+P0110,Sports Item 110,SPORTS,Sports - Type 3,344.43,212.83,S0048,2.65
+P0137,Beauty Item 137,Beauty,Beauty - Type 1,915.65,470.42,S0033,3.17
+P0331,Home & Kitchen Item 331,Home & Kitchen,Home & Kitchen - Type 4,5660.23,3860.29,S0004,4.65
+P0223,Toys Item 223,Toys,Toys - Type 3,1727.52,1002.77,S0092,3.54
+P0029,Books Item 29,Books,Books - Type 3,545.1,377.56,S0165,3.89
+P0288,Electronics Item 288,,Electronics - Type 2,3472.61,2669.94,S0005,3.0
+P0526,Sports Item 526,Sports,Sports - Type 2,3582.61,2081.13,S0200,3.01
+P0056,Grocery Item 56,Grocery,Grocery - Type 3,420.54,379.27,S0075,4.77
+P0157,Grocery Item 157,Grocery,Grocery - Type 2,782.16,703.05,S0100,4.31
+P0538,Beauty Item 538,Beauty,Beauty - Type 1,265.37,174.32,S0190,4.78
+P0549,Sports Item 549,Sports,Sports - Type 4,1014.44,599.4,S0130,4.3
+P0311,Electronics Item 311,Electronic,Electronics - Type 1,2488.05,1817.17,S0138,4.56
+P0049,Toys Item 49,TOYS,Toys - Type 1,781.03,472.53,S0010,4.69
+P0084,Toys Item 84,Toys,Toys - Type 2,915.62,571.85,S0120,3.85
+P0513,Electronics Item 513,Electronic,Electronics - Type 2,2233.48,1698.1,S0032,2.64
+P0034,Fashion Item 34, Fashion ,Fashion - Type 4,3242.46,2261.24,S0045,3.6
+P0036,Books Item 36,Books,Books - Type 2,225.79,152.63,S0075,4.31
+P0332,Home & Kitchen Item 332,Home & Kitchen,Home & Kitchen - Type 4,4016.06,2546.83,S0126,4.92
+P0064,Books Item 64, Books ,Books - Type 3,329.61,213.49,S0095,4.22
+P0414,Beauty Item 414,Beauty,Beauty - Type 2,483.07,263.06,S0192,3.29
+P0385,Fashion Item 385,Fashion,Fashion - Type 4,793.76,326.25,S0088,4.07
+P0542,Beauty Item 542,Beauty,Beauty - Type 4,1289.37,785.97,S0200,4.82
+P0323,Toys Item 323,Toys,Toys - Type 1,796.78,599.49,S0023,2.73
+P0373,Beauty Item 373,Beauty,Beauty - Type 4,545.44,293.23,S0099,4.69
+P0463,Home & Kitchen Item 463,Home & Kitchen,Home & Kitchen - Type 3,1378.97,822.13,S0158,2.96
+P0235,Beauty Item 235,Beauty,Beauty - Type 3,427.91,254.04,S0197,2.98
+P0413,Beauty Item 413,Beauty,Beauty - Type 3,,1708.46,S0074,4.32
+P0299,Electronics Item 299,Electronic,Electronics - Type 3,12055.39,8762.44,S0127,3.24
+P0344,Beauty Item 344,Beauty,Beauty - Type 2,166.04,93.95,S0047,4.33
+P0046,Sports Item 46,Sports,Sports - Type 1,6556.78,5023.19,S0089,3.92
+P0425,Toys Item 425,Toys,Toys - Type 2,735.5,485.05,S0076,3.16
+P0304,Electronics Item 304,Electronic,Electronics - Type 1,9788.92,7867.58,S0027,3.12
+P0539,Books Item 539,Books,Books - Type 2,525.7,371.08,S0141,3.29
+P0178,Beauty Item 178,Beauty,Beauty - Type 3,399.43,283.36,S0142,4.61
+P0220,Fashion Item 220,Fashion,Fashion - Type 4,590.79,383.38,S0190,3.66
+P0531,Electronics Item 531,Electronic,Electronics - Type 4,15090.36,11701.69,S0131,3.19
+P0297,Electronics Item 297,Electronic,Electronics - Type 4,1876.68,1340.99,S0165,4.7
+P0022,Electronics Item 22,Electronic,Electronics - Type 1,2638.26,2122.0,S0004,3.11
+P0249,Fashion Item 249,Fashion,Fashion - Type 2,3005.14,2051.26,S0142,4.41
+P0600,Fashion Item 600,Fashion,Fashion - Type 4,1650.99,757.14,S0153,2.55
+P0421,Home & Kitchen Item 421,Home & Kitchen,Home & Kitchen - Type 2,487.68,347.42,S0078,2.77
+P0326,Fashion Item 326,Fashion,Fashion - Type 1,539.65,328.4,S0144,2.74
+P0310,Books Item 310,Books,Books - Type 1,123.33,94.76,S0016,4.48
+P0200,Electronics Item 200,Electronics,Electronics - Type 4,29557.01,22609.35,S0010,3.48
+P0451,Home & Kitchen Item 451,Home & Kitchen,Home & Kitchen - Type 2,1674.64,904.82,S0117,2.71
+P0138,Books Item 138,Books,Books - Type 2,120.65,78.11,S0169,3.0
+P0025,Home & Kitchen Item 25,Home & Kitchen,Home & Kitchen - Type 4,1587.08,876.96,S0073,3.58
+P0400,Home & Kitchen Item 400,Home & Kitchen,Home & Kitchen - Type 3,408.57,226.69,S0105,3.08
+P0444,Fashion Item 444,Fashion,Fashion - Type 3,4566.8,1962.06,S0158,4.48
+P0185,Home & Kitchen Item 185,Home & Kitchen,Home & Kitchen - Type 4,3775.4,2683.63,S0003,4.95
+P0206,Fashion Item 206,Fashion,Fashion - Type 3,810.63,356.48,S0126,2.72
+P0135,Home & Kitchen Item 135,Home & Kitchen,Home & Kitchen - Type 4,4625.38,2823.84,S0059,3.83
+P0300,Sports Item 300,Sports,Sports - Type 3,3763.21,2557.95,S0148,3.31
+P0117,Home & Kitchen Item 117,Home & Kitchen,Home & Kitchen - Type 2,570.86,383.06,S0103,3.83
+P0213,Sports Item 213,Sports,Sports - Type 3,5991.58,4035.67,S0031,4.56
+P0589,Electronics Item 589,Electronic,Electronics - Type 4,21294.51,17404.37,S0152,3.96
+P0596,Grocery Item 596, Grocery ,Grocery - Type 4,1097.43,903.86,S0022,2.79
+P0561,Home & Kitchen Item 561,Home & Kitchen,Home & Kitchen - Type 1,4175.17,2882.82,S0190,2.65
+P0468,Fashion Item 468,,Fashion - Type 4,3191.57,1325.79,S0091,2.67
+P0481,Fashion Item 481,Fashion,Fashion - Type 2,875.17,568.93,S0094,3.39
+P0232,Books Item 232,Books,Books - Type 4,518.26,363.09,S0022,3.91
+P0406,Fashion Item 406,Fashion,Fashion - Type 2,1537.5,894.06,S0048,3.15
+P0218,Fashion Item 218,FASHION,Fashion - Type 1,476.97,235.57,S0059,3.72
+P0057,Fashion Item 57,Fashion,Fashion - Type 3,841.89,451.27,S0052,2.51
+P0318,Toys Item 318,Toys,Toys - Type 1,1271.89,958.36,S0133,3.44
+P0184,Electronics Item 184, Electronics ,Electronics - Type 2,3527.8,2990.5,S0125,4.57
+P0525,Electronics Item 525,Electronic,Electronics - Type 1,1517.13,1132.48,S0164,4.99
+P0523,Grocery Item 523,Grocery,Grocery - Type 1,575.58,512.0,S0176,4.07
+P0341,Home & Kitchen Item 341,Home & Kitchen,Home & Kitchen - Type 4,3577.11,2573.21,S0162,3.59
+P0182,Electronics Item 182,Electronic,Electronics - Type 3,33604.11,25121.93,S0158,2.96
+P0098,Books Item 98,Books,Books - Type 4,467.12,352.21,S0108,3.69
+P0115,Toys Item 115,TOYS,Toys - Type 2,2534.72,1869.17,S0097,4.04
+P0398,Sports Item 398,Sports,Sports - Type 4,1160.56,792.38,S0093,4.25
+P0486,Fashion Item 486,Fashion,Fashion - Type 1,2359.45,1543.55,S0076,3.01
+P0279,Fashion Item 279,Fashion,Fashion - Type 3,1787.49,890.32,S0193,2.74
+P0433,Electronics Item 433,Electronic,Electronics - Type 1,47307.28,35929.61,S0125,4.72
+P0119,Electronics Item 119,Electronic,Electronics - Type 4,3347.33,2509.84,S0040,4.22
+P0021,Fashion Item 21,Fashion,Fashion - Type 3,1011.37,573.97,S0096,4.36
+P0171,Grocery Item 171,Grocery,Grocery - Type 2,438.3,387.48,S0152,4.63
+P0402,Fashion Item 402,Fashion,Fashion - Type 2,4450.97,3111.9,S0048,2.87
+P0390,Toys Item 390,Toys,Toys - Type 2,845.26,501.5,S0056,4.79
+P0564,Electronics Item 564,Electronic,Electronics - Type 2,49781.92,40029.59,S0081,3.31
+P0055,Home & Kitchen Item 55,Home & Kitchen,Home & Kitchen - Type 2,3082.45,1813.28,S0022,4.22
+P0177,Electronics Item 177,Electronics,Electronics - Type 1,21756.73,16509.64,S0018,4.85
+P0488,Beauty Item 488,Beauty,Beauty - Type 1,318.13,171.98,S0199,3.67
+P0328,Books Item 328, Books ,Books - Type 4,187.3,128.6,S0010,4.36
+P0195,Grocery Item 195,Grocery,Grocery - Type 4,50.91,44.92,S0196,3.28
+P0199,Books Item 199,Books,Books - Type 3,413.66,272.39,S0032,3.46
+P0471,Home & Kitchen Item 471,Home & Kitchen,Home & Kitchen - Type 4,1561.34,1026.27,S0021,3.27
+P0583,Sports Item 583,Sports,Sports - Type 4,981.24,734.12,S0093,3.18
+P0571,Sports Item 571,Sports,Sports - Type 1,6327.3,3800.66,S0069,4.06
+P0353,Toys Item 353,Toys,Toys - Type 1,1111.04,701.61,S0134,3.37
+P0183,Fashion Item 183,FASHION,Fashion - Type 4,,160.85,S0052,4.68
+P0267,Electronics Item 267,Electronic,Electronics - Type 1,13391.32,9460.48,S0067,3.38
+P0355,Books Item 355,,Books - Type 3,539.11,440.57,S0129,3.97
+P0104,Electronics Item 104,Electronic,Electronics - Type 3,1841.18,1318.29,S0019,4.19
+P0221,Beauty Item 221,Beauty,Beauty - Type 4,439.21,303.3,S0017,3.92
+P0493,Fashion Item 493,Fashion,Fashion - Type 4,1483.5,938.12,S0110,4.05
+P0131,Home & Kitchen Item 131,Home & Kitchen,Home & Kitchen - Type 1,644.78,370.64,S0162,4.84
+P0339,Fashion Item 339,Fashion,Fashion - Type 1,3252.2,2136.17,S0197,4.68
+P0521,Toys Item 521,Toys,Toys - Type 1,838.22,493.36,S0039,3.4
+P0490,Fashion Item 490,Fashion,Fashion - Type 4,309.97,190.76,S0195,3.31
+P0194,Toys Item 194,Toys,Toys - Type 3,259.51,172.26,S0068,4.21
+P0141,Beauty Item 141,Beauty,Beauty - Type 2,856.47,597.44,S0177,3.63
+P0417,Electronics Item 417,Electronic,Electronics - Type 4,21214.94,16233.14,S0184,3.88
+P0477,Electronics Item 477,ELECTRONICS,Electronics - Type 2,1510.27,1115.84,S0086,4.55
+P0153,Fashion Item 153,Fashion,Fashion - Type 1,362.22,179.81,S0179,2.91
+P0547,Electronics Item 547,Electronic,Electronics - Type 2,9747.59,8005.38,S0146,3.77
+P0011,Toys Item 11,Toys,Toys - Type 2,722.25,401.91,S0043,3.79
+P0270,Beauty Item 270,Beauty,Beauty - Type 4,2418.73,1316.33,S0150,2.87
+P0097,Sports Item 97,Sports,Sports - Type 3,454.09,334.91,S0123,4.68
+P0211,Electronics Item 211,Electronic,Electronics - Type 1,14521.3,12073.3,S0141,4.76
+P0344,Beauty Item 344,Beauty,Beauty - Type 2,166.04,93.95,S0047,4.33
+P0569,Home & Kitchen Item 569,Home & Kitchen,Home & Kitchen - Type 3,3665.66,2562.05,S0104,4.8
+P0333,Grocery Item 333,Grocery,Grocery - Type 4,78.86,65.5,S0027,3.2
+P0076,Electronics Item 76,Electronic,Electronics - Type 2,7646.68,6019.73,S0186,4.14
+P0078,Fashion Item 78,Fashion,Fashion - Type 3,451.12,207.66,S0193,2.91
+P0264,Electronics Item 264,Electronic,Electronics - Type 4,4506.81,3375.97,S0096,2.62
+P0150,Electronics Item 150,Electronic,Electronics - Type 3,5765.43,4805.43,S0170,2.85
+P0515,Electronics Item 515,Electronic,Electronics - Type 3,51103.45,40821.83,S0162,4.94
+P0574,Toys Item 574,Toys,Toys - Type 4,213.06,140.85,S0094,3.44
+P0470,Fashion Item 470,Fashion,Fashion - Type 4,1483.07,964.0,S0188,3.8
+P0462,Toys Item 462,Toys,Toys - Type 4,511.86,311.59,S0160,4.49
+P0254,Home & Kitchen Item 254, Home & Kitchen ,Home & Kitchen - Type 3,2676.97,1692.39,S0083,2.59
+P0370,Home & Kitchen Item 370,Home & Kitchen,Home & Kitchen - Type 3,3554.97,1869.01,S0059,2.97
+P0322,Toys Item 322,Toys,Toys - Type 1,299.39,198.39,S0043,4.2
+P0152,Beauty Item 152,Beauty,Beauty - Type 1,389.49,205.37,S0082,2.78
+P0303,Home & Kitchen Item 303,Home & Kitchen,Home & Kitchen - Type 2,1085.54,629.13,S0125,4.99
+P0191,Electronics Item 191,Electronic,Electronics - Type 4,8219.47,6641.2,S0014,4.42
+P0349,Home & Kitchen Item 349,Home & Kitchen,Home & Kitchen - Type 3,772.91,439.14,S0073,3.55
+P0244,Fashion Item 244,Fashion,Fashion - Type 2,541.46,225.03,S0169,2.91
+P0088,Fashion Item 88,Fashion,Fashion - Type 4,341.71,193.1,S0120,3.48
+P0555,Fashion Item 555,Fashion,Fashion - Type 1,369.55,220.1,S0016,4.95
+P0419,Toys Item 419,Toys,Toys - Type 1,1469.72,832.23,S0164,3.32
+P0289,Grocery Item 289,GROCERY,Grocery - Type 4,766.43,682.6,S0069,4.57
+P0167,Toys Item 167,Toys,Toys - Type 1,278.95,198.56,S0046,4.03
+P0572,Fashion Item 572,Fashion,Fashion - Type 4,3200.42,1730.85,S0154,2.87
+P0156,Sports Item 156,Sports,Sports - Type 4,6225.96,3641.8,S0033,4.34
+P0357,Electronics Item 357,Electronic,Electronics - Type 1,16478.5,12994.49,S0072,3.23
+P0382,Toys Item 382,Toys,Toys - Type 2,618.23,389.85,S0176,2.8
+P0280,Sports Item 280,Sports,Sports - Type 3,1403.52,873.58,S0118,4.66
+P0127,Fashion Item 127,Fashion,Fashion - Type 1,503.92,254.96,S0115,2.69
+P0023,Books Item 23,Books,Books - Type 2,544.17,369.21,S0149,4.11
+P0283,Beauty Item 283,Beauty,Beauty - Type 4,199.75,94.79,S0006,3.78
+P0472,Electronics Item 472,Electronic,Electronics - Type 1,48611.49,36698.72,S0185,2.52
+P0368,Fashion Item 368,Fashion,Fashion - Type 4,703.68,317.84,S0139,4.8
+P0026,Toys Item 26,Toys,Toys - Type 3,217.85,147.41,S0143,3.98
+P0197,Books Item 197,Books,Books - Type 2,574.25,421.54,S0136,4.0
+P0065,Sports Item 65,Sports,Sports - Type 2,3639.66,2411.08,S0051,2.83
+P0016,Electronics Item 16, Electronics ,Electronics - Type 4,4599.54,3318.32,S0176,2.9
+P0467,Toys Item 467,,Toys - Type 4,290.26,198.4,S0076,3.79
+P0298,Home & Kitchen Item 298,Home & Kitchen,Home & Kitchen - Type 3,3679.73,1985.22,S0071,3.23
+P0337,Electronics Item 337,Electronic,Electronics - Type 2,1711.91,1349.7,S0081,2.68
+P0027,Books Item 27,Books,Books - Type 4,591.84,389.29,S0163,4.24
+P0044,Electronics Item 44,Electronic,Electronics - Type 2,35611.32,25624.34,S0094,4.84
+P0498,Electronics Item 498,Electronic,Electronics - Type 2,14920.74,10500.22,S0174,3.9
+P0516,Electronics Item 516,Electronic,Electronics - Type 3,23749.8,18593.24,S0110,2.51
+P0323,Toys Item 323,Toys,Toys - Type 1,796.78,599.49,S0023,2.73
+P0562,Home & Kitchen Item 562, Home & Kitchen ,Home & Kitchen - Type 1,990.21,520.89,S0139,2.82
+P0455,Fashion Item 455, Fashion ,Fashion - Type 1,3763.29,1515.44,S0174,3.1
+P0388,Sports Item 388,Sports,Sports - Type 4,4278.55,2832.33,S0150,3.77
+P0072,Books Item 72,Books,Books - Type 3,,115.91,S0056,4.68
+P0543,Fashion Item 543,Fashion,Fashion - Type 2,4741.88,2309.2,S0170,4.27
+P0457,Home & Kitchen Item 457,Home & Kitchen,Home & Kitchen - Type 2,449.16,295.3,S0086,4.28
+P0432,Beauty Item 432,Beauty,Beauty - Type 1,,1051.51,S0131,4.77
+P0265,Sports Item 265,Sports,Sports - Type 2,3719.7,2701.68,S0142,3.9
+P0210,Electronics Item 210,Electronic,Electronics - Type 1,3419.67,2796.36,S0112,4.37
+P0317,Fashion Item 317,Fashion,Fashion - Type 2,656.32,416.88,S0140,4.73
+P0514,Sports Item 514,Sports,Sports - Type 4,1625.24,1086.64,S0136,4.83
+P0314,Sports Item 314,Sports,Sports - Type 1,2860.54,2238.9,S0070,3.4
+P0535,Electronics Item 535,Electronic,Electronics - Type 1,3546.21,2852.55,S0079,3.8
+P0320,Beauty Item 320,Beauty,Beauty - Type 2,307.01,180.99,S0144,3.22
+P0008,Home & Kitchen Item 8,Home & Kitchen,Home & Kitchen - Type 4,11597.75,7027.28,S0188,4.74
+P0394,Home & Kitchen Item 394,Home & Kitchen,Home & Kitchen - Type 4,2188.84,1524.13,S0028,4.09
+P0142,Toys Item 142,Toys,Toys - Type 1,,1114.84,S0153,4.31
+P0087,Books Item 87,Books,Books - Type 3,320.77,208.48,S0056,4.49
+P0479,Fashion Item 479,Fashion,Fashion - Type 2,1720.93,759.22,S0068,2.7
+P0504,Grocery Item 504,Grocery,Grocery - Type 3,309.95,264.58,S0030,3.68
+P0216,Books Item 216,Books,Books - Type 2,737.76,569.41,S0089,2.65
+P0581,Sports Item 581,Sports,Sports - Type 4,1181.05,820.22,S0106,2.86
+P0563,Fashion Item 563, Fashion ,Fashion - Type 1,489.8,338.09,S0130,3.44
+P0399,Electronics Item 399,Electronic,Electronics - Type 2,6240.86,5033.07,S0148,2.79
+P0491,Fashion Item 491,Fashion,Fashion - Type 3,600.62,282.71,S0093,3.36
+P0253,Beauty Item 253,Beauty,Beauty - Type 3,1068.79,522.64,S0045,4.05
+P0469,Beauty Item 469,Beauty,Beauty - Type 2,1760.5,1284.86,S0016,4.28
+P0358,Books Item 358,Books,Books - Type 1,106.07,71.67,S0123,4.87
+P0255,Grocery Item 255,Grocery,Grocery - Type 2,148.12,124.12,S0103,2.61
+P0277,Electronics Item 277,Electronic,Electronics - Type 4,2075.35,1570.09,S0022,4.24
+P0179,Home & Kitchen Item 179,Home & Kitchen,Home & Kitchen - Type 3,11463.1,7845.34,S0043,4.78
+P0282,Books Item 282,Books,Books - Type 4,726.42,472.23,S0056,2.54
+P0391,Electronics Item 391, Electronics ,Electronics - Type 4,9996.08,7963.62,S0049,4.92
+P0509,Toys Item 509,Toys,Toys - Type 3,406.79,294.13,S0132,4.87
+P0584,Books Item 584,Books,Books - Type 4,234.18,162.08,S0181,3.87
+P0130,Fashion Item 130,Fashion,Fashion - Type 3,724.36,345.13,S0185,4.99
+P0145,Beauty Item 145,Beauty,Beauty - Type 4,1263.57,858.88,S0022,3.6
+P0073,Fashion Item 73,Fashion,Fashion - Type 3,4865.88,2073.62,S0146,3.26
+P0236,Toys Item 236,Toys,Toys - Type 3,2646.58,1620.39,S0158,4.89
+P0038,Toys Item 38,Toys,Toys - Type 3,262.42,16722.0,S0072,4.77

@@ -1,0 +1,201 @@
+seller_id,seller_name,seller_state,seller_rating,join_date
+S0079,Seller 79,Karnataka,4.4,2021-02-04
+S0098,Seller 98,Rajasthan,5.0,2021-03-06
+S0153,Seller 153,Karnataka,4.8,2021-08-02
+S0045,Seller 45,Kerala,4.6,2021-07-12
+S0041,Seller 41,Karnataka,4.5,2020-05-30
+S0068,Seller 68,Delhi,4.3,2023-02-02
+S0099,Seller 99,Rajasthan,3.8,2022-07-12
+S0019,Seller 19,Kerala,4.2,2022-10-29
+S0154,Seller 154,Rajasthan,4.2,2021-10-03
+S0063,Seller 63,Kerala,3.7,2020-05-22
+S0005,Seller 5,Uttar Pradesh,4.2,2022-03-18
+S0174,Seller 174,Gujarat,4.0,2020-05-04
+S0146,Seller 146,Maharashtra,3.9,2020-06-26
+S0039,Seller 39,Rajasthan,4.0,2022-04-15
+S0030,Seller 30,Delhi,4.7,2022-11-13
+S0172,Seller 172,Uttar Pradesh,3.5,2023-08-15
+S0192,Seller 192,Telangana,3.8,2021-07-18
+S0034,Seller 34,Karnataka,4.2,2024-02-05
+S0181,Seller 181,Kerala,3.4,2023-12-17
+S0191,Seller 191,Rajasthan,3.6,2023-12-22
+S0175,Seller 175,Rajasthan,3.7,2023-10-31
+S0032,Seller 32,Tamil Nadu,2.5,2020-11-04
+S0012,Seller 12,West Bengal,4.2,2020-06-08
+S0120,Seller 120,Kerala,4.2,2021-05-04
+S0187,Seller 187,Maharashtra,4.4,2020-08-26
+S0035,Seller 35,Telangana,4.1,2022-03-09
+S0085,Seller 85,Karnataka,4.0,2021-07-11
+S0186,Seller 186,Delhi,4.2,2022-01-08
+S0121,Seller 121,Tamil Nadu,3.6,2020-09-25
+S0036,Seller 36,Rajasthan,4.4,2023-12-26
+S0151,Seller 151,West Bengal,4.1,2021-10-10
+S0029,Seller 29,Rajasthan,4.8,2020-09-27
+S0017,Seller 17,Rajasthan,3.8,2022-12-11
+S0131,Seller 131,Karnataka,4.3,2020-04-26
+S0117,Seller 117,Uttar Pradesh,4.9,2022-08-11
+S0184,Seller 184,Uttar Pradesh,4.2,2021-06-03
+S0028,Seller 28,Rajasthan,4.1,2020-10-12
+S0048,Seller 48,Kerala,4.2,2022-01-07
+S0059,Seller 59,Tamil Nadu,4.0,2020-07-23
+S0050,Seller 50,Delhi,4.6,2021-08-06
+S0190,Seller 190,Tamil Nadu,5.0,2020-10-27
+S0107,Seller 107,West Bengal,3.7,2022-05-17
+S0091,Seller 91,Uttar Pradesh,4.7,2023-04-28
+S0149,Seller 149,Tamil Nadu,3.7,2021-03-29
+S0144,Seller 144,Gujarat,3.3,2023-10-16
+S0096,Seller 96,Karnataka,3.7,2021-10-27
+S0074,Seller 74,Rajasthan,5.0,2021-07-10
+S0052,Seller 52,Delhi,5.0,2021-02-17
+S0118,Seller 118,Gujarat,4.2,2020-07-04
+S0104,Seller 104,Kerala,4.6,2022-07-26
+S0070,Seller 70,Tamil Nadu,4.5,2021-05-18
+S0108,Seller 108,Delhi,4.2,2023-10-29
+S0015,Seller 15,Telangana,4.6,2021-08-28
+S0164,Seller 164,Delhi,2.5,2020-03-26
+S0060,Seller 60,Telangana,3.7,2020-09-14
+S0020,Seller 20,Uttar Pradesh,4.0,2022-06-20
+S0194,Seller 194,Gujarat,4.9,2021-10-14
+S0040,Seller 40,Delhi,4.8,2021-06-21
+S0111,Seller 111,Telangana,5.0,2023-07-18
+S0166,Seller 166,Tamil Nadu,4.6,2021-02-05
+S0057,Seller 57,Kerala,4.2,2023-08-18
+S0178,Seller 178,Tamil Nadu,4.7,2022-02-26
+S0125,Seller 125,Tamil Nadu,3.8,2020-10-19
+S0183,Seller 183,Kerala,4.1,2020-07-08
+S0156,Seller 156,Uttar Pradesh,4.8,2023-10-04
+S0054,Seller 54,Tamil Nadu,4.4,2021-09-20
+S0095,Seller 95,Karnataka,4.3,2023-12-03
+S0199,Seller 199,Maharashtra,4.3,2023-08-05
+S0106,Seller 106,Tamil Nadu,4.1,2020-06-10
+S0133,Seller 133,Uttar Pradesh,4.3,2020-02-21
+S0043,Seller 43,Kerala,4.3,2021-05-24
+S0018,Seller 18,Gujarat,4.4,2023-06-28
+S0006,Seller 6,Kerala,4.1,2022-10-16
+S0152,Seller 152,Karnataka,3.8,2020-08-05
+S0049,Seller 49,Gujarat,5.0,2021-09-15
+S0167,Seller 167,Tamil Nadu,4.2,2020-01-09
+S0067,Seller 67,Karnataka,3.3,2023-12-06
+S0115,Seller 115,Kerala,4.0,2021-11-20
+S0055,Seller 55,Uttar Pradesh,3.8,2021-09-30
+S0094,Seller 94,Kerala,4.2,2023-10-12
+S0123,Seller 123,Karnataka,4.5,2023-12-20
+S0090,Seller 90,Kerala,4.0,2020-12-28
+S0173,Seller 173,Uttar Pradesh,4.1,2020-05-21
+S0124,Seller 124,Telangana,3.9,2023-12-20
+S0013,Seller 13,Rajasthan,3.5,2024-02-02
+S0128,Seller 128,Uttar Pradesh,4.2,2020-04-03
+S0103,Seller 103,Kerala,3.7,2022-07-20
+S0198,Seller 198,Delhi,4.8,2020-01-18
+S0161,Seller 161,Kerala,4.2,2023-08-22
+S0100,Seller 100,Telangana,4.8,2021-05-20
+S0082,Seller 82,Uttar Pradesh,4.0,2023-04-19
+S0062,Seller 62,Delhi,3.9,2023-03-16
+S0196,Seller 196,Delhi,3.8,2022-01-30
+S0014,Seller 14,Tamil Nadu,3.6,2020-11-01
+S0083,Seller 83,Telangana,3.8,2021-09-26
+S0139,Seller 139,Tamil Nadu,4.0,2021-10-05
+S0185,Seller 185,Telangana,5.0,2021-11-13
+S0046,Seller 46,Tamil Nadu,4.0,2021-09-19
+S0109,Seller 109,Rajasthan,5.0,2022-10-31
+S0037,Seller 37,Delhi,4.2,2020-08-23
+S0168,Seller 168,Delhi,4.6,2020-05-18
+S0200,Seller 200,Kerala,4.2,2020-10-03
+S0160,Seller 160,West Bengal,3.4,2021-04-14
+S0113,Seller 113,Uttar Pradesh,4.8,2021-05-19
+S0155,Seller 155,Telangana,4.4,2021-05-27
+S0026,Seller 26,Karnataka,4.8,2023-11-29
+S0119,Seller 119,Telangana,3.1,2021-04-16
+S0180,Seller 180,Maharashtra,3.3,2022-02-22
+S0076,Seller 76,Kerala,3.2,2022-03-18
+S0022,Seller 22,Telangana,3.9,2024-02-03
+S0092,Seller 92,Tamil Nadu,4.2,2020-11-04
+S0159,Seller 159,West Bengal,3.9,2020-01-17
+S0003,Seller 3,Tamil Nadu,5.0,2022-08-04
+S0071,Seller 71,Maharashtra,4.4,2022-07-28
+S0086,Seller 86,Tamil Nadu,4.5,2022-10-09
+S0189,Seller 189,Tamil Nadu,4.1,2020-08-13
+S0007,Seller 7,Delhi,4.1,2023-10-03
+S0169,Seller 169,Gujarat,4.4,2023-01-31
+S0001,Seller 1,Karnataka,4.1,2022-02-15
+S0162,Seller 162,Uttar Pradesh,4.6,2023-08-31
+S0078,Seller 78,Uttar Pradesh,4.1,2023-04-09
+S0114,Seller 114,Uttar Pradesh,3.3,2023-12-25
+S0066,Seller 66,West Bengal,3.6,2022-01-18
+S0056,Seller 56,Karnataka,5.0,2020-04-05
+S0089,Seller 89,Gujarat,4.2,2020-09-24
+S0148,Seller 148,Maharashtra,4.2,2022-12-20
+S0047,Seller 47,Kerala,4.6,2023-08-18
+S0075,Seller 75,Tamil Nadu,5.0,2023-10-28
+S0093,Seller 93,West Bengal,3.5,2021-12-25
+S0165,Seller 165,Rajasthan,4.5,2023-07-17
+S0088,Seller 88,Karnataka,4.0,2022-11-12
+S0171,Seller 171,Rajasthan,4.7,2022-05-09
+S0011,Seller 11,Karnataka,4.1,2023-08-16
+S0033,Seller 33,Maharashtra,4.3,2022-11-12
+S0137,Seller 137,Gujarat,4.3,2020-07-03
+S0084,Seller 84,Maharashtra,4.2,2023-11-20
+S0163,Seller 163,Tamil Nadu,4.3,2024-01-06
+S0101,Seller 101,Rajasthan,2.9,2022-12-15
+S0126,Seller 126,Karnataka,4.5,2021-11-05
+S0024,Seller 24,Maharashtra,4.3,2022-09-29
+S0127,Seller 127,Rajasthan,3.5,2020-12-15
+S0010,Seller 10,Gujarat,4.7,2022-04-18
+S0177,Seller 177,Rajasthan,4.8,2023-03-10
+S0105,Seller 105,Kerala,3.6,2022-05-03
+S0188,Seller 188,Uttar Pradesh,4.6,2023-11-01
+S0136,Seller 136,Tamil Nadu,4.6,2021-10-15
+S0112,Seller 112,Gujarat,3.9,2021-08-04
+S0195,Seller 195,Rajasthan,4.5,2021-01-23
+S0065,Seller 65,Rajasthan,4.3,2022-04-21
+S0016,Seller 16,West Bengal,5.0,2023-09-23
+S0042,Seller 42,Telangana,4.4,2021-11-18
+S0170,Seller 170,Gujarat,3.8,2022-06-06
+S0110,Seller 110,Tamil Nadu,4.0,2023-02-02
+S0081,Seller 81,Karnataka,4.2,2024-01-21
+S0053,Seller 53,Rajasthan,3.0,2023-08-05
+S0027,Seller 27,Rajasthan,4.2,2021-11-06
+S0077,Seller 77,Tamil Nadu,3.0,2021-12-08
+S0044,Seller 44,Uttar Pradesh,4.7,2020-11-01
+S0025,Seller 25,Karnataka,4.1,2021-10-04
+S0004,Seller 4,Tamil Nadu,4.2,2020-10-28
+S0176,Seller 176,Kerala,4.3,2022-06-28
+S0150,Seller 150,Tamil Nadu,4.4,2022-06-03
+S0132,Seller 132,Karnataka,4.2,2022-08-20
+S0197,Seller 197,Tamil Nadu,3.7,2023-03-10
+S0031,Seller 31,Karnataka,4.7,2023-01-22
+S0122,Seller 122,West Bengal,4.6,2023-03-14
+S0116,Seller 116,Uttar Pradesh,3.8,2023-01-05
+S0182,Seller 182,Uttar Pradesh,4.2,2020-06-25
+S0009,Seller 9,Kerala,3.0,2023-04-16
+S0061,Seller 61,Maharashtra,3.9,2021-07-01
+S0129,Seller 129,Uttar Pradesh,4.3,2022-07-17
+S0002,Seller 2,Karnataka,3.6,2021-05-19
+S0058,Seller 58,Uttar Pradesh,3.7,2021-12-07
+S0023,Seller 23,West Bengal,4.7,2022-08-12
+S0064,Seller 64,Rajasthan,4.2,2020-06-29
+S0008,Seller 8,Tamil Nadu,3.3,2023-11-16
+S0142,Seller 142,Kerala,3.5,2024-02-03
+S0087,Seller 87,Telangana,4.2,2020-02-22
+S0097,Seller 97,Maharashtra,4.8,2020-05-05
+S0069,Seller 69,Uttar Pradesh,4.4,2022-12-09
+S0051,Seller 51,Karnataka,3.8,2022-06-16
+S0143,Seller 143,Uttar Pradesh,4.5,2021-05-27
+S0158,Seller 158,West Bengal,4.4,2022-07-28
+S0157,Seller 157,Gujarat,4.8,2021-08-05
+S0140,Seller 140,Karnataka,4.5,2022-03-20
+S0147,Seller 147,Uttar Pradesh,3.9,2022-06-19
+S0102,Seller 102,West Bengal,4.6,2024-01-28
+S0021,Seller 21,Telangana,5.0,2020-09-18
+S0179,Seller 179,Karnataka,4.5,2020-05-08
+S0135,Seller 135,Tamil Nadu,4.4,2020-04-06
+S0072,Seller 72,Maharashtra,4.9,2022-05-26
+S0130,Seller 130,Maharashtra,4.0,2023-07-13
+S0145,Seller 145,Uttar Pradesh,4.2,2021-10-03
+S0193,Seller 193,Kerala,3.6,2022-05-08
+S0080,Seller 80,West Bengal,4.1,2020-11-25
+S0134,Seller 134,Rajasthan,3.4,2023-06-18
+S0138,Seller 138,Kerala,4.4,2021-09-10
+S0073,Seller 73,Gujarat,4.6,2021-02-21
+S0141,Seller 141,Gujarat,4.1,2023-05-28
+S0038,Seller 38,Rajasthan,4.4,2021-08-27
