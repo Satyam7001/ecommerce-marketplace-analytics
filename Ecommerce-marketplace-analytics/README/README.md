@@ -78,9 +78,13 @@ Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Jupyter Notebook
 ## 6\. Dashboard
 
 !\[Overview](Images/dashboard\_overview.png)
+
 !\[Category and Product](Images/category.png)
+
 !\[Sellers](Images/sellers.png)
+
 !\[Customers](Images/customers.png)
+
 !\[Returns and Ratings](Images/returns \& ratings.png)
 
 \---
@@ -157,7 +161,7 @@ Ecommerce-marketplace-analytics/
 
 1. Clone the repository.
 2. Install the libraries: pip install pandas numpy matplotlib seaborn jupyter
-3. Open the notebooks in order (01 to 10).
+3. Open the notebooks in order (01 to 8).
 4. Open powerbi/ecommerce\_dashboard.pbix in Power BI Desktop.
 
 ## Author
